@@ -1,0 +1,9 @@
+package classone;
+
+public class testruns {
+
+	public testruns() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

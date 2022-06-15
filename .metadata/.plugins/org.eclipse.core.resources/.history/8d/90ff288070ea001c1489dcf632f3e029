@@ -1,0 +1,11 @@
+package classone;
+
+public class classruns {
+	private void syso() {
+		int a = 1;
+		while (a<=100); {
+			System.out.println(a);
+		}
+	}
+
+}

@@ -1,0 +1,26 @@
+ 
+   // homework 1
+ package classone;
+
+public class firstProgram {
+	// comments is all always after those two lines
+	public static void main(String[] args) {
+		String a = "hi my name is nahian" ;
+	    int lenght = a.length();
+	    if (lenght < 110) {
+	    	System.out.println("long word");
+	    }
+	}
+}
+ 
+ // homework 2
+ package classone;
+
+public class classruns {
+	public static void main(String[] args) {
+		int a = 3;
+		while (a<=100) {
+			System.out.println(a);
+			a++;
+		}
+	}

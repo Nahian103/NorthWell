@@ -1,0 +1,11 @@
+package classone;
+
+public class testruns {
+
+	public static void main(String[] args) {
+		string name = "helloworld"
+		System.out.println(name);
+
+	}
+
+}

@@ -1,0 +1,124 @@
+//                             2nd Homework
+// Question 1****************************************************************************************************************
+
+
+package lesson.two;
+
+public class RandomNumber {
+
+	public static void main(String[] args) {
+		int randomNum = (int)(Math.random() * 100);  
+		System.out.println(randomNum);
+	}
+
+}
+
+// a different method i learned watching youtube  (have few questions about that)
+
+import java.util.Random;
+
+public class Main {
+
+	public static void main(String[] args) {
+    
+	  Random random = new Random();
+			  int x = random.nextInt(6)+1;
+	          System.out.println(x);
+	           }
+} 
+
+
+
+// Question 2 *****************************************************************************************************************
+
+
+package classone;
+
+public class leapyear  {
+
+	public static void main(String[] args) {
+		int a = 1900;
+		while(a<=2022) {
+			System.out.println(a);
+			a = a+4;
+		}
+
+	}
+
+}
+
+// Question 3 *******************************************************************************************************************
+
+
+package classone;
+
+public class Testrunsforclassworks {
+
+	public static void main(String[] args) {
+    
+      String a="3";
+				System.out.println(Integer.parseInt(a)+3);
+	}
+
+}
+
+// Question 4
+
+package classone;
+
+public class Replace {
+
+	public static void main(String[] args) {
+		String a = "here's how it works";
+    	System.out.println(a);
+    	a = a.replace('e', ' ');
+    	a = a.replace('i', ' ');
+    	a = a.replace('o', ' ');
+    			System.out.println(a);
+    }
+	}
+
+
+// Question 5 my researched shows it needs for loop 
+// Question 6  
+// Question 7
+
+
+package classone;
+
+public class Multiplication {
+
+	public static void main(String[] args) {
+		char ch = 'a';
+		if (ch>='A'&& (ch<='Z'));
+		
+			{ System.out.println("UpperCase");}
+		else { System.out.println('lowercase');}
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

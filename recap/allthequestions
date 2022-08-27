@@ -1,0 +1,25 @@
+
+Generate a random integer, using if/else determine the number is even or odd
+Print out all leap years since 1900
+Convert the string "3" into an integer
+Replace all vowels from the following string "Here’s how it works"
+Write a program to display the multiplication table of a given integer
+String a = "Happy Coding"; Write a program that will print each character of the string a in a new line.
+Write a program to check whether a entered character is lowercase ( a to z ) or uppercase ( A to Z ).
+-------------------------------------------------------------------------
+Given an array, int[] numbers = {23, 423, 12, 598, 200, 112}; , find the total of all the values in the array.
+Declare an empty character array.
+Given an array, int[] numbers = {23, 423, 12, 598, 200, 112}; find if the array includes the number 200.
+Given an array int[] intArray2 = { 61, 17, 58, 39, 10 };, find the average of all the values
+Given an array int[] intArray2 = { 61, 17, 58, 39, 10 };, find the largest values in the array
+Given an array String[] brands = {"Verizon", "Adidas", "BMW", "Ford", "Mazda","Exxon", "Google", }; remove any brand that has more than 5 characters.
+Given an array String[] brands = {"Verizon", "Adidas", "BMW", "Ford", "Mazda","Exxon", "Google", }; convert all the values to UpperCase.
+Given an array String[] brands = {"Verizon", "Adidas", "BMW", "Ford", "Mazda","Exxon", "Google", }; print the values in reverse order
+Given an array int[] intArray2 = { 61, 17, 58, 39, 10 }; print the values in order ex. 10, 17,39....
+Can you change the length of an array? Explain.
+----------------------------------------------------------------------------
+Write a function that takes an integer as an input and return true if the number is odd else it returns false.
+Write a function that takes a string as an input and returns a new string with all the vowels removed
+Write a function that takes a double array as input and return the total of all the values in the array
+Write a function that takes two arrays(any data type) as input and returns a single array.
+Write a function that checks if a number is prime
